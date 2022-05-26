@@ -1,0 +1,29 @@
+.fontrobotto {
+    font-family: 'Roboto', sans-serif;
+}
+
+.centrado {
+    display: flex;
+    justify-content: center;
+}
+
+.fondonewsletter {
+    background-color: green;
+    color: white;
+}
+
+.margenes {
+    margin: 10px 0px 0px 0px;
+}
+
+.marginhearth {
+    padding: 10px;
+}
+
+.derechos{
+    text-align: center;
+}
+
+.magenbuttom {
+    margin: 10px 10px 10px 10px;
+}
